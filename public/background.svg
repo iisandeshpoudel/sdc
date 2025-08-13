@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 750 500">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="750" height="500" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g id="BACKGROUND">
+    <rect width="750" height="500" style="fill: #f7eee4"/>
+  </g>
+  <g id="OBJECTS">
+    <g style="clip-path: url(#clip-path)">
+      <circle cy="500" r="105.34" style="fill: #77c9c3"/>
+      <circle cx="750" r="134.04" style="fill: #cbd6c8"/>
+      <path d="M-49.65,296.75h0a29.64,29.64,0,0,1,0-41.79L102.56,102.75a29.63,29.63,0,0,1,41.8,0h0a29.64,29.64,0,0,1,0,41.79L-7.85,296.75A29.65,29.65,0,0,1-49.65,296.75Z" style="fill: #cbd6c8"/>
+      <path d="M-85,285.52h0a18,18,0,0,1,0-25.38L66,109.05a18,18,0,0,1,25.39,0h0a18,18,0,0,1,0,25.38L-59.66,285.52A18,18,0,0,1-85,285.52Z" style="fill: #294420"/>
+      <rect x="45.74" y="46.8" width="46.19" height="46.19" rx="12" transform="translate(138.73 1.06) rotate(90)" style="fill: #fd9f9d"/>
+      <circle cx="110.63" cy="28.09" r="9.27" style="fill: none;stroke: #294420;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <circle cx="27.03" cy="111.69" r="9.27" style="fill: #77c9c3"/>
+      <path d="M196.75,179.59a58.92,58.92,0,1,1-117.84,0" style="fill: none;stroke: #77c9c3;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <path d="M607.69,333.08A58.92,58.92,0,0,0,691,249.75" style="fill: none;stroke: #77c9c3;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <path d="M139.08,204.2h0a4.28,4.28,0,0,1,0-6l58-58a4.29,4.29,0,0,1,6,0h0a4.3,4.3,0,0,1,0,6.05l-58,58A4.29,4.29,0,0,1,139.08,204.2Z" style="fill: #77c9c3"/>
+      <path d="M849.94,261.83l-35-35L630.34,411.37h0a49.53,49.53,0,0,0,70.06,0Z" style="fill: #77c9c3"/>
+      <path d="M561.63,480.08a48.59,48.59,0,0,1,68.71-68.71Z" style="fill: #fd9f9d"/>
+      <circle cx="649.2" cy="291.26" r="29.68" style="fill: none;stroke: #294420;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <path d="M725,409.69h0a4.53,4.53,0,0,0-6.39,0l-69.73,69.72a4.54,4.54,0,0,0,0,6.4h0a4.54,4.54,0,0,0,6.4,0L725,416.09A4.54,4.54,0,0,0,725,409.69Z" style="fill: #294420"/>
+      <path d="M767.26,396.05h0a4.54,4.54,0,0,0-6.4,0l-69.73,69.72a4.54,4.54,0,0,0,0,6.4h0a4.54,4.54,0,0,0,6.4,0l69.73-69.73A4.55,4.55,0,0,0,767.26,396.05Z" style="fill: #cbd6c8"/>
+      <circle cx="649.2" cy="291.26" r="10.96" style="fill: #77c9c3"/>
+      <circle cx="547.49" cy="432.25" r="12.38" style="fill: #294420"/>
+    </g>
+  </g>
+</svg>
