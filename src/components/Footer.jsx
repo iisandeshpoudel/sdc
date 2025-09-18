@@ -69,7 +69,7 @@ const Footer = () => {
               >
                 <img
                   src="/images/Logo.svg"
-                  alt="SDC Logo"
+                  alt="SDC Pokhara logo – study abroad consultancy"
                   className="w-50 h-15 object-cover"
                   color="black"
                 />

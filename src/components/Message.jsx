@@ -41,7 +41,7 @@ const Message = () => {
               <div className="relative h-full min-h-[400px]">
                 <img
                   src="/images/owner.jpeg"
-                  alt="Madhuri Poudel, Managing Director"
+                  alt="Managing Director at SDC Pokhara – student counseling in Nepal"
                   className="absolute inset-0 w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>

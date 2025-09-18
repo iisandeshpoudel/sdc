@@ -235,7 +235,7 @@ const Partnerships = () => {
                 <div className="bg-white p-4 rounded-lg shadow-sm border border-blue-100 w-40 h-24 flex items-center justify-center">
                   <img
                     src="/Partners/idp.png"
-                    alt="IDP IELTS Official Partner"
+                    alt="IDP IELTS partner – test preparation in Pokhara"
                     className="h-12 object-contain"
                   />
                 </div>
@@ -255,7 +255,7 @@ const Partnerships = () => {
                 <div className="bg-white p-4 rounded-lg shadow-sm border border-blue-100 w-40 h-24 flex items-center justify-center">
                   <img
                     src="/Partners/british.png"
-                    alt="British Council Partner"
+                    alt="British Council partner – IELTS Pokhara"
                     className="h-12 object-contain"
                   />
                 </div>
@@ -275,7 +275,7 @@ const Partnerships = () => {
                 <div className="bg-white p-4 rounded-lg shadow-sm border border-blue-100 w-40 h-24 flex items-center justify-center">
                   <img
                     src="/Partners/epcan.png"
-                    alt="EPCAN Member"
+                    alt="EPCAN member – Nepal education consultancy network"
                     className="h-20 w-auto object-contain"
                   />
                 </div>

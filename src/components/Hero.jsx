@@ -105,7 +105,7 @@ const Hero = () => {
   ];
 
   return (
-    <section className="relative flex min-h-screen items-center justify-between overflow-hidden bg-gradient-to-br from-blue-50 to-blue-100 px-4 md:px-8 lg:px-24">
+    <section id="home" className="relative flex min-h-screen items-center justify-between overflow-hidden bg-gradient-to-br from-blue-50 to-blue-100 px-4 md:px-8 lg:px-24">
       {/* Floating country flags - blue with subtle yellow accent */}
       {countries.map((country, index) => (
         <motion.div
@@ -238,7 +238,7 @@ const Hero = () => {
           <div className="relative h-[400px] w-[400px] lg:h-[500px] lg:w-[500px] xl:h-[600px] xl:w-[600px] rounded-full p-8 lg:p-12 xl:p-16 shadow-2xl bg-blue-50">
             <img
               src={heroImage}
-              alt="Students studying abroad"
+              alt="Study abroad consultancy in Pokhara – SDC education guidance"
               className=""
               style={{
                 height: "100%",

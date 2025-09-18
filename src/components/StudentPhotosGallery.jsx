@@ -81,7 +81,7 @@ const StudentPhotosGallery = () => {
                   <div className="slide-card relative inline-block rounded-3xl overflow-hidden border-2 border-transparent bg-gradient-to-br from-white/80 to-white/40 backdrop-blur-lg shadow-lg hover:shadow-3xl transition-all duration-500">
                     <img
                       src={photo}
-                      alt={`Student success ${index + 1}`}
+                      alt={`Student visa success in Pokhara – SDC consultancy ${index + 1}`}
                       className="w-auto h-auto max-w-full max-h-[70vh] object-contain bg-white mx-auto transform transition-transform duration-500 hover:scale-105"
                     />
                   </div>
@@ -109,7 +109,7 @@ const StudentPhotosGallery = () => {
           </button>
           <img
             src={studentPhotos[currentIndex]}
-            alt="Fullscreen"
+            alt="Student success photo – SDC Pokhara"
             className="max-w-[90%] max-h-[80vh] object-contain rounded-lg shadow-2xl"
           />
           <button

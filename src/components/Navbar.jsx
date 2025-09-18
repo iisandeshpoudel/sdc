@@ -123,7 +123,7 @@ const Navbar = () => {
           >
             <img
               src="/images/Logo.svg"
-              alt="SDC Logo"
+              alt="SDC Pokhara education consultancy logo"
               className="w-[120px] h-[50px] object-cover"
               color="black"
             />
